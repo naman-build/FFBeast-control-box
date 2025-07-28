@@ -9,6 +9,7 @@ This is an enclosure designed to house FFBeast steering wheel simulators' electr
 ## Compatibility:
 - As long as you are using an Odrive/Xdrive Mini, there should be no problems with the enclosure.
 - This enclosure is compatible with all motors & encoders, as long as they're compatible with FFBeast.
+- This is NOT compatible with OpenFFBoard projects. I will be releasing an enclosure for OpenFFBoard later on.
 
 <p float="middle">
   <img src="images/front.jpeg" height="350px" />

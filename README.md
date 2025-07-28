@@ -11,6 +11,6 @@ This is an enclosure designed to house FFBeast steering wheel simulators' electr
 - This enclosure is compatible with all motors & encoders, as long as they're compatible with FFBeast.
 
 <p float="middle">
-  <img src="images/base.jpeg" height="350px" />
-  <img src="images/psu_cover.jpeg" height="350px" />
+  <img src="images/front.jpeg" height="350px" />
+  <img src="images/rear.jpeg" height="350px" />
 </p>

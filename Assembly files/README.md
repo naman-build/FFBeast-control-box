@@ -1,2 +1,2 @@
 - I will be releasing a build guide soon. In the mean time, please refer to the assembly file to aid in assembling the control box. 
-- If there are any questions, please contact me via Discord (fumbuckkk) or Email (Jsmedcalfe@gmail.com).
+- If there are any questions, please do not hesitate to contact me via Discord (fumbuckkk) or Email (Jsmedcalfe@gmail.com).
